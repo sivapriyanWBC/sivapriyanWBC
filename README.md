@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm Sivapriyan Saravanan
 
 🚀 Passionate Full-Stack & AI Engineer | 8+ Years of Experience  
 🎯 Building scalable web apps, smart embedded systems & cutting-edge AI/GenAI solutions
